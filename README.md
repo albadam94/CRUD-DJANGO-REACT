@@ -1,2 +1,2 @@
-# CRUD-DJANGO-REACT
-Base de registro de clientes 
+# BD-con-DjangoyReact
+Base de clientes con Django y React
